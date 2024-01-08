@@ -81,7 +81,7 @@ examples/CMakeFiles/cnn-inference-f32-cpp.dir/cnn_inference_f32.cpp.o: \
  /usr/include/c++/11/bits/unordered_map.h \
  /usr/include/c++/11/bits/erase_if.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.hpp \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algo.h \
  /usr/include/c++/11/cstdlib /usr/include/stdlib.h \
  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
@@ -181,7 +181,7 @@ examples/CMakeFiles/cnn-inference-f32-cpp.dir/cnn_inference_f32.cpp.o: \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.hpp \
  /home/vineel/tf_onednn/oneDNN/examples/example_utils.hpp \

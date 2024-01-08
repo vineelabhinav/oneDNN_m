@@ -71,7 +71,7 @@ src/cpu/CMakeFiles/dnnl_cpu.dir/matmul/gemm_f32_matmul.cpp.o: \
  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
  /home/vineel/tf_onednn/oneDNN/src/common/c_types_map.hpp \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
  /home/vineel/tf_onednn/oneDNN/src/common/dnnl_thread.hpp \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
@@ -208,7 +208,7 @@ src/cpu/CMakeFiles/dnnl_cpu.dir/matmul/gemm_f32_matmul.cpp.o: \
  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/src/common/float16.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/bit_cast.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/internal_defs.hpp \

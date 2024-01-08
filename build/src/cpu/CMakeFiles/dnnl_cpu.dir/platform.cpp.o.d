@@ -102,7 +102,7 @@ src/cpu/CMakeFiles/dnnl_cpu.dir/platform.cpp.o: \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/aarch64-linux-gnu/bits/types/error_t.h \
  /home/vineel/tf_onednn/oneDNN/src/cpu/platform.hpp \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /home/vineel/tf_onednn/oneDNN/src/common/c_types_map.hpp \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
@@ -144,7 +144,7 @@ src/cpu/CMakeFiles/dnnl_cpu.dir/platform.cpp.o: \
  /usr/include/aarch64-linux-gnu/bits/iscanonical.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/src/common/bit_cast.hpp \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \

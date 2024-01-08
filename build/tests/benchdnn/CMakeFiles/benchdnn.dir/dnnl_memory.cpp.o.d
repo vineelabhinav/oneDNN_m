@@ -161,8 +161,8 @@ tests/benchdnn/CMakeFiles/benchdnn.dir/dnnl_memory.cpp.o: \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
  /home/vineel/tf_onednn/oneDNN/tests/test_thread.hpp \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \

@@ -91,8 +91,8 @@ src/cpu/CMakeFiles/dnnl_cpu.dir/rnn/cell_common.cpp.o: \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
  /home/vineel/tf_onednn/oneDNN/src/common/dnnl_thread.hpp \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algo.h \

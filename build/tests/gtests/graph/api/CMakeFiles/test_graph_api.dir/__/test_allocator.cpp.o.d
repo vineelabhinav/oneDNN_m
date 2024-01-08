@@ -177,8 +177,8 @@ tests/gtests/graph/api/CMakeFiles/test_graph_api.dir/__/test_allocator.cpp.o: \
  /usr/include/c++/11/bits/erase_if.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_graph.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_graph_types.h \
  /usr/lib/gcc/aarch64-linux-gnu/11/include/limits.h \

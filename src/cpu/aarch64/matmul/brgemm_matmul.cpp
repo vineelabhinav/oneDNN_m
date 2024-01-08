@@ -19,7 +19,7 @@
 #include "common/memory_tracking.hpp"
 #include "common/tag_traits.hpp"
 #include "common/type_helpers.hpp"
-#include "common/utils.hpp"
+#include "common/utils.hpp" 
 
 #include "cpu/cpu_primitive.hpp"
 #include "cpu/matmul/matmul_utils.hpp"

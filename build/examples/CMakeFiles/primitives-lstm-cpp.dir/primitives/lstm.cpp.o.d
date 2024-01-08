@@ -184,7 +184,7 @@ examples/CMakeFiles/primitives-lstm-cpp.dir/primitives/lstm.cpp.o: \
  /usr/include/c++/11/bits/stl_numeric.h /usr/include/c++/11/stdlib.h \
  /home/vineel/tf_onednn/oneDNN/include/dnnl.hpp \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.hpp \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /usr/include/c++/11/iterator /usr/include/c++/11/bits/stream_iterator.h \
  /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
@@ -207,7 +207,7 @@ examples/CMakeFiles/primitives-lstm-cpp.dir/primitives/lstm.cpp.o: \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.hpp \
  /home/vineel/tf_onednn/oneDNN/include/dnnl_debug.h \

@@ -301,11 +301,11 @@ tests/gtests/CMakeFiles/test_concurrency.dir/test_concurrency.cpp.o: \
  /home/vineel/tf_onednn/oneDNN/tests/gtests/gtest/gtest_pred_impl.h \
  /home/vineel/tf_onednn/oneDNN/tests/gtests/gtest/gtest.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.hpp \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.hpp \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_debug.h \

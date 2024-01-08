@@ -214,12 +214,12 @@ tests/benchdnn/CMakeFiles/benchdnn.dir/conv/ref_conv.cpp.o: \
  /usr/include/c++/11/backward/auto_ptr.h \
  /home/vineel/tf_onednn/oneDNN/tests/benchdnn/common.hpp \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
  /home/vineel/tf_onednn/oneDNN/tests/benchdnn/utils/wrapper.hpp \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/tests/benchdnn/dnnl_debug.hpp \
  /home/vineel/tf_onednn/oneDNN/tests/benchdnn/dnnl_common.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/bfloat16.hpp \

@@ -22,8 +22,8 @@ src/cpu/CMakeFiles/dnnl_cpu.dir/matmul/cpu_matmul_list.cpp.o: \
  /usr/include/aarch64-linux-gnu/bits/wchar.h \
  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
  /home/vineel/tf_onednn/oneDNN/src/common/c_types_map.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/engine.hpp \
@@ -318,4 +318,50 @@ src/cpu/CMakeFiles/dnnl_cpu.dir/matmul/cpu_matmul_list.cpp.o: \
  /home/vineel/tf_onednn/oneDNN/src/cpu/matmul/ref_matmul.hpp \
  /home/vineel/tf_onednn/oneDNN/src/cpu/primitive_attr_postops.hpp \
  /home/vineel/tf_onednn/oneDNN/src/cpu/matmul/ref_matmul_int8.hpp \
- /home/vineel/tf_onednn/oneDNN/src/cpu/matmul/ref_sparse_matmul.hpp
+ /home/vineel/tf_onednn/oneDNN/src/cpu/matmul/ref_sparse_matmul.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/matmul/brgemm_matmul.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/brgemm/brgemm.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/brgemm/brgemm_types.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/cpu_isa_traits.hpp \
+ /home/vineel/tf_onednn/oneDNN/include/dnnl_types.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64.h \
+ /usr/include/c++/11/deque /usr/include/c++/11/bits/stl_deque.h \
+ /usr/include/c++/11/bits/deque.tcc /usr/include/c++/11/list \
+ /usr/include/c++/11/bits/stl_list.h /usr/include/c++/11/bits/list.tcc \
+ /usr/include/c++/11/unordered_set \
+ /usr/include/c++/11/bits/unordered_set.h /usr/include/c++/11/stdlib.h \
+ /usr/include/aarch64-linux-gnu/sys/mman.h \
+ /usr/include/aarch64-linux-gnu/bits/mman.h \
+ /usr/include/aarch64-linux-gnu/bits/mman-map-flags-generic.h \
+ /usr/include/aarch64-linux-gnu/bits/mman-linux.h \
+ /usr/include/aarch64-linux-gnu/bits/mman-shared.h /usr/include/unistd.h \
+ /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
+ /usr/include/aarch64-linux-gnu/bits/environments.h \
+ /usr/include/aarch64-linux-gnu/bits/confname.h \
+ /usr/include/aarch64-linux-gnu/bits/getopt_posix.h \
+ /usr/include/aarch64-linux-gnu/bits/getopt_core.h \
+ /usr/include/aarch64-linux-gnu/bits/unistd.h \
+ /usr/include/aarch64-linux-gnu/bits/unistd_ext.h \
+ /usr/include/linux/close_range.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_err.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_gen.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_adr.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_reg.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_code_array.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_inner.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_label.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_meta_mnemonic.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_mnemonic_def.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_version.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/xbyak_aarch64/xbyak_aarch64/xbyak_aarch64_util.h \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/brgemm/brgemm_containers.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/brgemm/brgemm_utils.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/cpu_reducer.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/common/memory_tracking.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/cpu_barrier.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/jit_generator.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/jit_utils/jit_utils.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/matmul/brgemm_matmul_copy_utils.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/cpu/aarch64/matmul/brgemm_matmul_utils.hpp \
+ /home/vineel/tf_onednn/oneDNN/src/common/verbose.hpp

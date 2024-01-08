@@ -305,7 +305,7 @@ tests/gtests/graph/unit/backend/dnnl/CMakeFiles/graph_unit_test_dnnl_backend.dir
  /usr/include/aarch64-linux-gnu/bits/iscanonical.h \
  /home/vineel/tf_onednn/oneDNN/src/common/c_types_map.hpp \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
  /home/vineel/tf_onednn/oneDNN/src/common/nstl.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/bfloat16.hpp \
@@ -313,7 +313,7 @@ tests/gtests/graph/unit/backend/dnnl/CMakeFiles/graph_unit_test_dnnl_backend.dir
  /usr/include/c++/11/cstring \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/src/common/float16.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/bit_cast.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/internal_defs.hpp \

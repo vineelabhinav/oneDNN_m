@@ -154,7 +154,7 @@ tests/gtests/CMakeFiles/test_gemm_s8u8s32.dir/__/test_thread.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /home/vineel/tf_onednn/oneDNN/src/common/dnnl_thread.hpp \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algo.h \
  /usr/include/c++/11/bits/algorithmfwd.h \
@@ -221,7 +221,7 @@ tests/gtests/CMakeFiles/test_gemm_s8u8s32.dir/__/test_thread.cpp.o: \
  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/src/common/float16.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/bit_cast.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/internal_defs.hpp \

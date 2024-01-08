@@ -77,7 +77,7 @@ src/cpu/aarch64/CMakeFiles/dnnl_cpu_aarch64.dir/jit_uni_reorder.cpp.o: \
  /usr/include/c++/11/bits/uniform_int_dist.h /usr/include/assert.h \
  /usr/include/c++/11/numeric /usr/include/c++/11/bits/stl_numeric.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_debug.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_types.h \
  /usr/lib/gcc/aarch64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
  /usr/include/aarch64-linux-gnu/bits/wchar.h \
@@ -210,7 +210,7 @@ src/cpu/aarch64/CMakeFiles/dnnl_cpu_aarch64.dir/jit_uni_reorder.cpp.o: \
  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/src/common/float16.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/bit_cast.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/internal_defs.hpp \

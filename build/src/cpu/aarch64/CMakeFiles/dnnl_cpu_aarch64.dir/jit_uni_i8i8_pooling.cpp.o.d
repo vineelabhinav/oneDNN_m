@@ -20,7 +20,7 @@ src/cpu/aarch64/CMakeFiles/dnnl_cpu_aarch64.dir/jit_uni_i8i8_pooling.cpp.o: \
  /usr/include/aarch64-linux-gnu/bits/wchar.h \
  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_config.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_config.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common_types.h \
  /home/vineel/tf_onednn/oneDNN/src/common/primitive.hpp \
  /usr/include/assert.h /usr/include/c++/11/atomic \
@@ -32,7 +32,7 @@ src/cpu/aarch64/CMakeFiles/dnnl_cpu_aarch64.dir/jit_uni_i8i8_pooling.cpp.o: \
  /usr/include/c++/11/bits/move.h /usr/include/c++/11/type_traits \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl.h \
  /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_common.h \
- /home/vineel/tf_onednn/oneDNN/build/include/oneapi/dnnl/dnnl_version.h \
+ /home/vineel/tf_onednn/oneDNN/include/oneapi/dnnl/dnnl_version.h \
  /home/vineel/tf_onednn/oneDNN/src/common/c_types_map.hpp \
  /home/vineel/tf_onednn/oneDNN/src/common/cache_blob.hpp \
  /usr/include/c++/11/cstdint /usr/include/c++/11/cstring \
