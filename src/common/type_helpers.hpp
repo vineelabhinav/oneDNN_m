@@ -78,7 +78,7 @@ ISSPEC(uint8_t, int16_t);
 
 inline bool operator==(const memory_desc_t &lhs, const memory_desc_t &rhs);
 
-namespace types {
+namespace types { 
 
 inline size_t data_type_size(data_type_t data_type) {
     using namespace data_type;
